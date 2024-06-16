@@ -40,7 +40,7 @@ Once in Target mode the computer pops off the next potential target off the stac
 
 Even though far from elegant, this algorithm produces signifincantly better results than random firing. It is, however, a long way from efficient as it has no concept of what constitutes a ship, and blindly needs to walk around all surrounding edges of every hit pixel (with the exception of the last hit one), making sure there are no more ships touching.
 
-![]([https://github.com/ashwani-mittal/Battleship-Game-Simulator/blob/master/Battleship.png](https://github.com/ashwani-mittal/Battleship-Game-Simulator/blob/main/Battleship.png))
+![https://github.com/ashwani-mittal/Battleship-Game-Simulator/blob/master/Battleship.png](https://github.com/ashwani-mittal/Battleship-Game-Simulator/blob/main/Battleship.png)
 
 ### Hunting Stratergy
 
